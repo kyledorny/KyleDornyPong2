@@ -18,14 +18,14 @@ body {
 }
 
 #left-paddle {
-  background-color: BurlyWood;
+  background-color: Sienna;
   left: 20px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: BurlyWood;
-  right: 10px;
+  background-color: Sienna;
+  right: 20px;
 }
 
 #instructions {
@@ -73,9 +73,9 @@ body {
 }
 
 .ball {
-  width: 45px;
-  height: 45px;
-  background-color: yellow;
+  width: 15px;
+  height: 15px;
+  background-color: BurlyWood;
   border-radius: 10px;
   position: absolute;
   left: 50px;
