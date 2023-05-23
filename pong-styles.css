@@ -10,7 +10,7 @@ body {
 }
 #game {
   margin: 4px;
-  border: 5px solid black;
+  border: 5px solid Sienna;
   left: 0;
   position: absolute;
   background-image: url("beigewoodenplank.jpg");
@@ -18,16 +18,16 @@ body {
 }
 
 #left-paddle {
-  background-color: Sienna;
+  background-color: BurlyWood;
   left: 20px;
   height: 25px;
-  border: 5px solid Burlywood;
+  border: 2px solid Sienna;
 }
 
 #right-paddle {
-  background-color: Sienna;
+  background-color: BurlyWood;
   right: 20px;
-  border: 5px solid BurlyWood;
+  border: 2px solid Sienna;
 }
 
 #instructions {
@@ -70,14 +70,14 @@ body {
 
 .paddle {
   top: 0;
-  width: 5px;
+  width: 8px;
   position: absolute;
 }
 
 .ball {
   width: 15px;
   height: 15px;
-  background-color: BurlyWood;
+  background-color: Sienna;
   border-radius: 10px;
   position: absolute;
   left: 50px;
